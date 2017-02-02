@@ -1,0 +1,13 @@
+export const INITIAL 						= 'INITIAL';
+export const USER_ONLINE 				= 'USER_ONLINE';
+export const USER_OFFLINE 			= 'USER_OFFLINE';
+export const USER_TYPING 	    	= 'USER_TYPING';
+export const OPEN_CHAT 	  			= 'OPEN_CHAT';
+export const SEARCH_TERM 				= 'SEARCH_TERM';
+export const INPUT_VALUE 				= 'INPUT_VALUE';
+export const ADD_MESSAGE 				= 'ADD_MESSAGE';
+export const MESSAGE_SEEN 			= 'MESSAGE_SEEN';
+export const MESSAGE_NOT_SEEN 	= 'MESSAGE_NOT_SEEN';
+export const TOGGLE_OPTIONS 	  = 'TOGGLE_OPTIONS';
+export const TOGGLE_EMOJI 	    = 'TOGGLE_EMOJI';
+export const SELECT_EMOJI 	    = 'SELECT_EMOJI';
